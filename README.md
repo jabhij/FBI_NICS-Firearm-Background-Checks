@@ -11,3 +11,8 @@ When someone wants to purchase a firearm, they typically visit a Federal Firearm
  - This project is a try to showcase the use of guns across the US. 
  - It also represent why the arm shooting or arm related crimes are highest in the USA.
  - The States with the highest crime rate has also higher numer of guns.
+
+
+## Visaulizations 
+ - [Dashboard 1](https://public.tableau.com/app/profile/abhishek7107/viz/FBINICSFirearmBackgroundCheckData-D2/Dashboard1)
+ - [Dashboard 2](https://public.tableau.com/app/profile/abhishek7107/viz/FBINICSFirearmBackgroundCheckData_16730558069400/Dashboard2)
